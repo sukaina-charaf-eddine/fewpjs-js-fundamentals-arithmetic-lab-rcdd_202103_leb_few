@@ -4,7 +4,7 @@ var num2=2;
 var multiply=num1*num2;
 
 
-var random= Math.floor(Math.random() *Infinity) +0;
+var random= Math.floor(Math.random() *100) +0;
 
 
 
