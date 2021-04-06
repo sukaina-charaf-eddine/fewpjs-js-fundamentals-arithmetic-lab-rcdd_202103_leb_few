@@ -13,10 +13,3 @@ var num4=6;
 var mod=num3%num4;
 
 var max=Math.max(1,15,20,6,7)
-
-
-
-
-
-
-
